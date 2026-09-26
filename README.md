@@ -49,7 +49,7 @@ Everything pulled together in one view.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 hostel_life_manager/
@@ -73,7 +73,7 @@ in a script, a Jupyter notebook, or a future GUI/web frontend.
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 - Python **3.7+**
 - No external libraries — only the standard library (`json`, `os`,

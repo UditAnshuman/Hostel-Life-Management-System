@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2026-09-26",
+    "meal": "Breakfast",
+    "taken": false
+  },
+  {
+    "date": "2026-09-26",
+    "meal": "Lunch",
+    "taken": true
+  },
+  {
+    "date": "2026-09-26",
+    "meal": "Dinner",
+    "taken": false
+  }
+]
